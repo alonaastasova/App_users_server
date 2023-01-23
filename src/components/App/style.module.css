@@ -1,0 +1,19 @@
+* {
+    background-color: #bebbbb;
+}
+
+.card_container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: 10px;
+    padding: 20px;
+    gap: 20px;
+    background-color: #bebbbb;
+}
+
+h1{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+}
